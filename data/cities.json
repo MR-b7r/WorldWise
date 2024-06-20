@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "1b9e",
+      "cityName": "Concelho da Boa Vista",
+      "country": "Cabo Verde",
+      "emoji": "🇨🇻",
+      "notes": "",
+      "date": "2024-02-04T12:33:14.161Z",
+      "position": {
+        "lat": "15.929638243169189",
+        "lng": "-24.0380859375"
+      }
+    },
+    {
+      "id": "f2a7",
+      "cityName": "Damanhur",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "notes": "",
+      "date": "2024-02-04T12:41:48.744Z",
+      "position": {
+        "lat": "30.97856114019996",
+        "lng": "30.460876822471622"
+      }
+    }
+  ]
+}
